@@ -16,6 +16,7 @@
 #### Used an 80:20 test/train split to obtain 95.96% accuracy on test set.
 #### Tagged 3000 unseen questions from [here](http://cogcomp.org/Data/QA/QC/train_3000.label)
 #### The Tagged.csv files contains the tagged results.
+#### Then tagging_model.pkl file contains the trained LinearSVM model.
 
 ## References
 Classifying What-type Questions by Head Noun Tagging (http://www.aclweb.org/anthology/C08-1061)
